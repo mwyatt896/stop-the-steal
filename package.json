@@ -45,7 +45,7 @@
     "sdk": "link:@types/puzzlehq/sdk",
     "tailwindcss": "^3.3.3",
     "typescript": "^5.0.2",
-    "vite": "^4.4.5",
+    "vite": "^4.5.5",
     "vite-plugin-live-reload": "^3.0.1",
     "vite-plugin-wasm": "^3.2.2"
   }
